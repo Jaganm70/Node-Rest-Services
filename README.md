@@ -1,2 +1,2 @@
 # Node-Rest-Services >>>>>>
-Test
+Jenkins plugin config
