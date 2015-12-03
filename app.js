@@ -34,7 +34,7 @@ app.use(morgan('dev'));
 //====================================
 // loggly Config
 
-var loggly = require('loggly');
+/*var loggly = require('loggly');
  
   var client = loggly.createClient({
     token: "6d8f2cf9-9ff7-4253-9052-e574d69ee7e5",
@@ -47,7 +47,7 @@ var loggly = require('loggly');
     // Optional: Tag to send with EVERY log message 
     // 
     tags: ['Bright-tag']
-  });
+  });*/
 
 //====================================
 
